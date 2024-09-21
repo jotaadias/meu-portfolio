@@ -1,0 +1,14 @@
+header {
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+main section {
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+footer {
+    padding: 10px;
+    text-align: center;
+}
